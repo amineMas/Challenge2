@@ -5,7 +5,7 @@ In this React challenge, we'll loop through an array of data and display informa
 
 ## How it works 
 
-You can get a render of the result on this link https://codesandbox.io/s/github/amineMas/Challenge
+You can get a render of the result on this link https://codesandbox.io/s/github/amineMas/Challenge2
 
 You can also clone the project on your editor. Follow these steps :
 1. Clone the project by using `git clone`
